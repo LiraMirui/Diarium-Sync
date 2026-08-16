@@ -10,4 +10,4 @@
 
 ## Audio
 
-[Music](Audio/Music)
+[Music](Audio/Music) – usually not for embedding, as doesn't give a link.
