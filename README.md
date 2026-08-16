@@ -1,1 +1,2 @@
-[Eugh](Pics/Special) – test.
+## Pictures folder
+[Special](Pics/Special)
