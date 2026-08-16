@@ -3,4 +3,5 @@
 # Folders:
 
 ## Pictures
+[Avatars](Pics/Avatars)
 [Special](Pics/Special)
